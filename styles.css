@@ -86,6 +86,11 @@ a:hover {
 
 }
 
+.pic{
+    border radius: 50%;
+    height: 10px;
+}
+
 .skill-row{
     margin: 100px auto 100px auto;
     text-align: left; 
