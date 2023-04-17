@@ -86,12 +86,6 @@ a:hover {
 
 }
 
-/*pic css*/
-.pic{
-    border radius: 50%;
-    height: 10rem;
-}
-
 .skill-row{
     margin: 100px auto 100px auto;
     text-align: left; 
@@ -179,3 +173,8 @@ a:hover {
     text-decoration: none;
  }
 /***************************id Selectors***************************/
+
+#pic{
+    border radius: 50%;
+    height: 10rem;
+}
